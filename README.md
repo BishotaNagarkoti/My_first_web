@@ -1,5 +1,4 @@
 # My_first_web
-Artificial Intelligence in Sustainability
 # EcoAI — Artificial Intelligence in Sustainability Web Portal
 **Unit 7175: Web Design and Programming — Assessment 3**  
 **University of Canberra — Faculty of Science and Technology**  
